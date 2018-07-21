@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as Bsoup 
 import re
+import sys
 
 
 # get all the blastinfo url
@@ -73,7 +74,7 @@ def find_everything(len_tag):
     ret = score_tag.get_text()
     pattern = re.compile(r'\d+\.\d*')
     score_try = pattern.findall(ret)
-    if len(score_try) != 0
+    if len(score_try) != 0:
     	score = score_try[0]
     else:
     	score = -1
@@ -143,10 +144,11 @@ def write_to_table(dic):
 
 
 
-def main():
+def main(argv):
     model_url_list = "http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant?Method=geneticelements&Db=p3_p116_Ara_thali&GeneticelemType=all&Offset="
     model_url_page = "http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant?Method=ReportGeneData&Db=p3_p116_Ara_thali&Name=blastpself&GeneticelemID="
-    pages = [6,20]
+    pages = [int(argv[1]), int(argv[2])]
+    print(pages)
     URLs = get_all_url(model_url_list, pages=pages)
     soups = get_soups(URLs)
     IDs = extract(soups)
@@ -162,4 +164,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv)
