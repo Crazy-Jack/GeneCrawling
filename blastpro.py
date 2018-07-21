@@ -84,7 +84,7 @@ def find_everything(len_tag):
     rp = re.compile(r"\d+%")
     Id_try = rp.findall(idtext)
     if len(Id_try) != 0:
-    	Identity = [0][:-1]
+    	Identity = Id_try[0][:-1]
     else:
     	Identity = -1
 
@@ -136,8 +136,8 @@ def clean_data(result_dic, min_score=100, ind_edge=30):
     return new_data
 
 
-def write_to_table(dic):
-    with open('data'+str(pages[0])+'_'+str(pages[1]), 'w') as f:
+def write_to_table(dic, pages):
+    with open('data'+str(pages[0])+'_'+str(pages[1])+'.txt', 'w') as f:
         f.write('GI number' + '\t' + 'Length' + '\t' + "Count" + '\n')
         for e in dic:
             f.write(str(e) + '\t' + str(dic[e][0]) + '\t' + str(dic[e][1]) + '\n')
@@ -145,10 +145,10 @@ def write_to_table(dic):
 
 
 def main(argv):
+	# settings
     model_url_list = "http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant?Method=geneticelements&Db=p3_p116_Ara_thali&GeneticelemType=all&Offset="
     model_url_page = "http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant?Method=ReportGeneData&Db=p3_p116_Ara_thali&Name=blastpself&GeneticelemID="
     pages = [int(argv[1]), int(argv[2])]
-    print(pages)
     URLs = get_all_url(model_url_list, pages=pages)
     soups = get_soups(URLs)
     IDs = extract(soups)
@@ -160,8 +160,10 @@ def main(argv):
 
     result_dic = all_page(urls)
     clean = clean_data(result_dic)
-    write_to_table(clean)
+    write_to_table(clean, pages)
 
 
 if __name__ == "__main__":
     main(sys.argv)
+    #pass
+
