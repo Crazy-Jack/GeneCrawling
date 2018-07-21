@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup as Bsoup 
 import re
 import sys
+import datetime
 
 
 # get all the blastinfo url
@@ -106,14 +107,26 @@ def get_all_info(soup):
 def all_page(urls):
     differnt_GIs_info = {}
     count = 0
+    oldtime = []
+    lens = len(urls)
     for url in urls:
+        start = datetime.datetime.now().timestamp()
         URL = urls[url]
         soup = get_soup(URL)
         dic = get_all_info(soup)
         differnt_GIs_info[url] = dic
         count += 1
-        print(str(count) + '/' + str(len(urls)) +'\t'+ '(' + str(url) + ')' + "is finished")
+        end = datetime.datetime.now().timestamp()
+        oldtime.append(end - start)
+        print(str(count) + '/' + str(lens) +'\t'+ '(' + str(url) + ')' + " is finished"+'\t'+'('+str(estimate_time(oldtime, count, lens))+' mins )')
     return differnt_GIs_info
+
+def estimate_time(oldtime, count, lens_urls):
+    aver = sum(oldtime)/len(oldtime)
+    esti = (lens_urls - count) * aver
+    return round(esti / 60, 2)
+    
+
 
 
 def clean_data(result_dic, min_score=100, ind_edge=30):
@@ -144,6 +157,7 @@ def write_to_table(dic, pages):
 
 
 
+
 def main(argv):
 	# settings
     model_url_list = "http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant?Method=geneticelements&Db=p3_p116_Ara_thali&GeneticelemType=all&Offset="
@@ -153,10 +167,6 @@ def main(argv):
     soups = get_soups(URLs)
     IDs = extract(soups)
     urls = url_builder(IDs, model_url_page)
-    with open('urls.txt', 'w') as f: 
-        for m in urls:
-            f.write(str(m) +'\t' + ":" + '\t' + str(urls[m]))
-
 
     result_dic = all_page(urls)
     clean = clean_data(result_dic)
