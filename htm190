@@ -1,0 +1,2897 @@
+HTTP/1.1 200 OK
+Date: Sun, 29 Jul 2018 06:05:21 GMT
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=UTF-8
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="cache-control" content="no-cache"> 
+<meta name="robots" content="noindex, nofollow">
+<title>Pedant</title>
+<link rel="stylesheet" type="text/css" href="./html/biomax.css">
+<SCRIPT type="text/javascript" src="./html/prototype.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="./html/RawData.js"></SCRIPT>
+</HEAD>
+<BODY style="font-family:Arial,Helvetica,sans-serif;font-size:12px;">
+<b><p style="font-size:130%">Best self match (blastp)<br>
+GI:7525018 ATP synthase CF1 alpha subunit</p></b><br>
+<br>
+<script type="text/javascript" src="./html/embedSVG.js"></script> 
+
+<center>
+<a name="blastpself-top"></a>
+<script type="text/javascript"> 
+var results = detectSVG(); 
+if (!results.supported) 
+  document.writeln(results.message + '<br>'); 
+else 
+  document.writeln('<embed src="pedant?Db=p3_p116_Ara_thali&Method=ReportGeneData&Name=blastpself&GeneticelemID=90&Format=svg" type="image/svg+xml" width="777" height="350" pluginspage="http://www.adobe.com/svg/viewer/install/main.html"/>'); 
+</script> 
+<noscript>Please activate JavaScript.</noscript>
+</center>
+<ul style="list-style-type:none">
+<li>
+<b>blastp 2.2.22 [Sep-27-2009]</b>
+</li>
+<br>
+<li>
+<b>Reference:</b>Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, <br>Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), <br>"Gapped BLAST and PSI-BLAST: a new generation of protein database search<br>programs",  Nucleic Acids Res. 25:3389-3402.</li>
+<br>
+<li>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td><b>Query:</b></td><td style="padding-left:10px" align="right">GI:7525018 ATP synthase CF1 alpha subunit</td>
+</tr>
+<tr>
+<td style="padding-left:10px">
+              Length:
+            </td><td style="padding-left:10px" align="right">507</td>
+</tr>
+</table>
+</li>
+<br>
+<li>
+    
+<li>
+<table style="padding-left:10;" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top"><b>Database:</b></td><td style="padding-left:10px;" valign="top" align="right">pedant3527638537756165100.tmp</td>
+</tr>
+<tr>
+<td>
+              Number of sequences:
+            </td><td style="padding-left:10px;" align="right">33401</td>
+</tr>
+<tr>
+<td>
+              Total number of letters:
+            </td><td style="padding-left:10px;" align="right">13432058</td>
+</tr>
+</table>
+</li>
+<br>
+<a name="top"></a>
+<table cellpadding="0" cellspacing="3" border="0">
+<tr align="center">
+<th colspan="3">
+<p style="padding:5px">
+<u>Sequences producing significant alignments:</u>
+</p>
+</th><th>
+<p style="padding:5px">
+<u>Score (bits):</u>
+</p>
+</th><th>
+<p style="padding:5px">
+<u>E-Value:</u>
+</p>
+</th>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A7525018&GenericId=59">GI:7525018</a></td><td align="left">ATP synthase CF1 alpha subunit</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:7525018" href="#blastpself-alignment-GI:7525018">1015</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">0</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15226092&GenericId=13752">GI:15226092</a></td><td align="left">ATP synthase alpha chain, mitochondrial, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:15226092" href="#blastpself-alignment-GI:15226092">576</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">1.1e-164</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A26557005&GenericId=122">GI:26557005</a></td><td align="left">ATPase subunit 1</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:26557005" href="#blastpself-alignment-GI:26557005">572</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">1.5e-163</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15233891&GenericId=25620">GI:15233891</a></td><td align="left">vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:15233891" href="#blastpself-alignment-GI:15233891">121</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.6e-28</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A42573221&GenericId=24804">GI:42573221</a></td><td align="left">vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:42573221" href="#blastpself-alignment-GI:42573221">121</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.6e-28</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79326460&GenericId=22311">GI:79326460</a></td><td align="left">vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:79326460" href="#blastpself-alignment-GI:79326460">121</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.6e-28</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79326468&GenericId=21485">GI:79326468</a></td><td align="left">vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:79326468" href="#blastpself-alignment-GI:79326468">121</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.6e-28</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15222929&GenericId=1781">GI:15222929</a></td><td align="left">vacuolar ATP synthase subunit B \ V-ATPase B subunit \ vacuolar proton pump B subunit \ V-ATPase 57 kDa subunit</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:15222929" href="#blastpself-alignment-GI:15222929">119</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">6.1e-27</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A240254125&GenericId=2181">GI:240254125</a></td><td align="left">hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:240254125" href="#blastpself-alignment-GI:240254125">116</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">3.3e-26</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A18415911&GenericId=28361">GI:18415911</a></td><td align="left">ATP synthase beta chain 2, mitochondrial</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:18415911" href="#blastpself-alignment-GI:18415911">92</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.0e-19</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A186521400&GenericId=26050">GI:186521400</a></td><td align="left">ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:186521400" href="#blastpself-alignment-GI:186521400">92</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">8.1e-19</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A22326673&GenericId=32215">GI:22326673</a></td><td align="left">ATP synthase beta chain, mitochondrial, putative</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:22326673" href="#blastpself-alignment-GI:22326673">90</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">1.8e-18</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15219234&GenericId=8324">GI:15219234</a></td><td align="left">VHA-A (VACUOLAR ATP SYNTHASE SUBUNIT A); ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:15219234" href="#blastpself-alignment-GI:15219234">81</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">9.7e-16</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79321468&GenericId=3258">GI:79321468</a></td><td align="left">VHA-A (VACUOLAR ATP SYNTHASE SUBUNIT A); ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:79321468" href="#blastpself-alignment-GI:79321468">81</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">9.7e-16</td>
+</tr>
+<tr style="font-size:10pt;" valign="top">
+<td align="center"></td><td align="left"><a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A7525040&GenericId=43">GI:7525040</a></td><td align="left">ATP synthase CF1 beta subunit</td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;"><a name="blastpself-overview-GI:7525040" href="#blastpself-alignment-GI:7525040">80</a></td><td style="text-align:right;padding-left:5px;padding-right:5px;font-family:monospace;white-space:nowrap;">3.0e-15</td>
+</tr>
+</table>
+<br>
+        
+<a name="blastpself-alignment-7525018" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:7525018" href="#blastpself-overview-GI:7525018"><img title="Jump to overview: GI:7525018" alt="Jump to overview: GI:7525018" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A7525018&GenericId=59">GI:7525018</a></b></td><td valign="top"><b>ATP synthase CF1 alpha subunit</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">507</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 1015.37 bits (2624),</td><td style="padding-left:10px;">Expect = 0,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 507/507 (100%),
+          </td><td>
+              Positives = 507/507 (100%),
+            </td><td></td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 507,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">1</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MVTIRADEISNIIRERIEQYNREVTIVNTGTVLQVGDGIARIYGLDEVMAGELVEFEEGT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">60</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MVTIRADEISNIIRERIEQYNREVTIVNTGTVLQVGDGIARIYGLDEVMAGELVEFEEGT</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">1</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MVTIRADEISNIIRERIEQYNREVTIVNTGTVLQVGDGIARIYGLDEVMAGELVEFEEGT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">60</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">61</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IGIALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRG</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">120</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IGIALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRG</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">61</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IGIALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRG</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">120</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">121</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KISASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">180</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KISASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">121</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KISASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">180</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">181</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TDTILNQQGQNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">240</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TDTILNQQGQNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAP</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">181</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TDTILNQQGQNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">240</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">241</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">300</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">241</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">300</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">301</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">360</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">301</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINV</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">360</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">361</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GISVSRVGSAAQIKAMKQVAGKLKLELAQFAELEAFSQFSSDLDKATQNQLARGQRLREL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">420</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GISVSRVGSAAQIKAMKQVAGKLKLELAQFAELEAFSQFSSDLDKATQNQLARGQRLREL</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">361</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GISVSRVGSAAQIKAMKQVAGKLKLELAQFAELEAFSQFSSDLDKATQNQLARGQRLREL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">420</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">421</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LKQSQSAPLTVEEQIMTIYTGTNGYLDGLEIGQVRKFLVQLRTYLKTNKPQFQEIIASTK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">480</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LKQSQSAPLTVEEQIMTIYTGTNGYLDGLEIGQVRKFLVQLRTYLKTNKPQFQEIIASTK</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">421</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LKQSQSAPLTVEEQIMTIYTGTNGYLDGLEIGQVRKFLVQLRTYLKTNKPQFQEIIASTK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">480</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">481</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLTAEAESFLKEGIQEQLERFLLQEKV</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">507</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLTAEAESFLKEGIQEQLERFLLQEKV</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">481</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLTAEAESFLKEGIQEQLERFLLQEKV</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">507</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-15226092" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:15226092" href="#blastpself-overview-GI:15226092"><img title="Jump to overview: GI:15226092" alt="Jump to overview: GI:15226092" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15226092&GenericId=13752">GI:15226092</a></b></td><td valign="top"><b>ATP synthase alpha chain, mitochondrial, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">777</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 576.63 bits (1485),</td><td style="padding-left:10px;">Expect = 1.12118e-164,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 287/499 (58%),
+          </td><td>
+              Positives = 363/499 (73%),
+            </td><td>
+            Gaps = 14/499 (3%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 499,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">5</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RADEISNIIRERIEQYNREVTIVNTGTVLQVGDGIARIYGLDEVMAGELVEFEEGTIGIA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">64</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RA E++N+   RI  +     +   G V+ VGDGIA++YGL+E+ AGE+V F  G  G+A</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">276</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RAAELTNLFESRIRNFYANFQVDEIGRVVSVGDGIAQVYGLNEIQAGEMVLFANGVKGMA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">335</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">65</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">124</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLE+ NVG+V+ G    I+EG  VK TG I  +P  +A LGRV++A+  PIDG+G +S </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">336</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLENENVGIVVFGGDTAIKEGDLVKRTGSIVDVPAGKAMLGRVVDAMGVPIDGKGALSD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">395</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">125</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATDTI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">184</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> E R +E  APGI+ R+SV+EP+QTGL A+DS++PIGRGQREL+IGDRQTGKT +A DTI</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">396</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">HEQRRVEVKAPGILERKSVHEPMQTGLKAVDSLVPIGRGQRELLIGDRQTGKTTIAIDTI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">455</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">185</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQ---------QGQNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">235</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQ         + + + CVYVAIGQK S+V Q++ +L+E  A+EY+I+VA TA  PA L</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">456</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQKQINSRATSESETMYCVYVAIGQKRSTVGQLIQTLEEANALEYSILVAATASDPAPL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">515</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">236</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QYLAPYTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">295</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">Q+LAPY+G A+ EYF     H LIIYDDLSKQA AYRQMSLLLRRPPGREA+PGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">516</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QFLAPYSGCAMGEYFRDNGMHALIIYDDLSKQAVAYRQMSLLLRRPPGREAFPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">575</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">296</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">355</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAK S Q G GS+TALP++ETQ+GDVSAYIPTNVISITDGQI L  +LF  GIR</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">576</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAKRSDQTGAGSLTALPVIETQAGDVSAYIPTNVISITDGQICLETELFYRGIR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">635</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">356</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVGISVSRVGSAAQIKAMKQVAGKLKLELAQFAELEAFSQFSSDLDKATQNQLARGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">415</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVG+SVSRVGSAAQ+KAMKQV G  KLELAQ+ E+ AF+QF SDLD ATQ  L RG </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">636</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVGLSVSRVGSAAQLKAMKQVCGSSKLELAQYREVAAFAQFGSDLDAATQALLNRGA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">695</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">416</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RLRELLKQSQSAPLTVEEQIMTIYTGTNGYLDGLEIGQVRKFLVQLRTYLKTNKPQFQEI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">475</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RL E+ KQ Q APL +E+QI+ IY   NG+ D + + ++ ++    +    + KP+  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">696</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RLTEVPKQPQYAPLPIEKQILVIYAAVNGFCDRMPLDRISQY---EKAIPNSVKPELLQA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">752</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">476</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IAS--TKTLTAEAESFLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">492</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+    T     E ++FLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">753</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LKGGLTNERKMEPDAFLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">771</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-26557005" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:26557005" href="#blastpself-overview-GI:26557005"><img title="Jump to overview: GI:26557005" alt="Jump to overview: GI:26557005" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A26557005&GenericId=122">GI:26557005</a></b></td><td valign="top"><b>ATPase subunit 1</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">507</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 572.778 bits (1475),</td><td style="padding-left:10px;">Expect = 1.57896e-163,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 286/499 (57%),
+          </td><td>
+              Positives = 362/499 (73%),
+            </td><td>
+            Gaps = 14/499 (3%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 499,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">5</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RADEISNIIRERIEQYNREVTIVNTGTVLQVGDGIARIYGLDEVMAGELVEFEEGTIGIA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">64</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RA E++N+   RI  +     +   G V+ VGDGIA++YGL+E+ AGE+V F  G  G+A</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">6</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RAAELTNLFESRIRNFYANFQVDEIGRVVSVGDGIAQVYGLNEIQAGEMVLFANGVKGMA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">65</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">65</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">124</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLE+ NVG+V+ G    I+EG  VK TG I  +P  +A LGRV++A+  PIDG+G +S </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">66</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNLENENVGIVVFGGDTAIKEGDLVKRTGSIVDVPAGKAMLGRVVDAMGVPIDGKGALSD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">125</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">125</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATDTI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">184</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> E R +E  APGI+ R+SV+EP+QTGL A+DS++PIGRGQREL+IG RQTGKT +A DTI</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">126</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">HEQRRVEVKAPGILERKSVHEPMQTGLKAVDSLVPIGRGQRELLIGGRQTGKTTIAIDTI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">185</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">185</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQ---------QGQNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">235</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQ         + + + CVYVAIGQK S+V Q++ +L+E  A+EY+I+VA TA  PA L</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">186</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LNQKQINSRATSESETMYCVYVAIGQKRSTVGQLIQTLEEANALEYSILVAATASDPAPL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">245</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">236</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QYLAPYTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">295</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">Q+LAPY+G A+ EYF     H LIIYDDLSKQA AYRQMSLLLRRPPGREA+PGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">246</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QFLAPYSGCAMGEYFRDNGMHALIIYDDLSKQAVAYRQMSLLLRRPPGREAFPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">305</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">296</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">355</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAK S Q G GS+TALP++ETQ+GDVSAYIPTNVISITDGQI L  +LF  GIR</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">306</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLLERAAKRSDQTGAGSLTALPVIETQAGDVSAYIPTNVISITDGQICLETELFYRGIR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">365</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">356</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVGISVSRVGSAAQIKAMKQVAGKLKLELAQFAELEAFSQFSSDLDKATQNQLARGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">415</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVG+SVSRVGSAAQ+KAMKQV G  KLELAQ+ E+ AF+QF SDLD ATQ  L RG </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">366</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">PAINVGLSVSRVGSAAQLKAMKQVCGSSKLELAQYREVAAFAQFGSDLDAATQALLNRGA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">425</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">416</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RLRELLKQSQSAPLTVEEQIMTIYTGTNGYLDGLEIGQVRKFLVQLRTYLKTNKPQFQEI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">475</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RL E+ KQ Q APL +E+QI+ IY   NG+ D + + ++ ++    +    + KP+  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">426</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">RLTEVPKQPQYAPLPIEKQILVIYAAVNGFCDRMPLDRISQY---EKAIPNSVKPELLQA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">482</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">476</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IAS--TKTLTAEAESFLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">492</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+    T     E ++FLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">483</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LKGGLTNERKMEPDAFLKE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">501</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-15233891" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:15233891" href="#blastpself-overview-GI:15233891"><img title="Jump to overview: GI:15233891" alt="Jump to overview: GI:15233891" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15233891&GenericId=25620">GI:15233891</a></b></td><td valign="top"><b>vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">487</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 121.709 bits (304),</td><td style="padding-left:10px;">Expect = 8.63919e-28,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/355 (28%),
+          </td><td>
+              Positives = 153/355 (43%),
+            </td><td>
+            Gaps = 44/355 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 355,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">83</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">142</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTIL-NQQGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">190</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    +D +L +Q+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">143</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKSDNLLEHQEDD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">202</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">191</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEYF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">250</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">203</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">262</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">251</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MYR-EQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">309</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">263</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">321</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">310</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVGS</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">369</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">322</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLMK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">380</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">370</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">381</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">435</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-42573221" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:42573221" href="#blastpself-overview-GI:42573221"><img title="Jump to overview: GI:42573221" alt="Jump to overview: GI:42573221" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A42573221&GenericId=24804">GI:42573221</a></b></td><td valign="top"><b>vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">487</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 121.709 bits (304),</td><td style="padding-left:10px;">Expect = 8.63919e-28,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/355 (28%),
+          </td><td>
+              Positives = 153/355 (43%),
+            </td><td>
+            Gaps = 44/355 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 355,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">83</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">142</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTIL-NQQGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">190</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    +D +L +Q+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">143</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKSDNLLEHQEDD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">202</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">191</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEYF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">250</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">203</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">262</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">251</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MYR-EQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">309</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">263</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">321</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">310</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVGS</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">369</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">322</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLMK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">380</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">370</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">381</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">435</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-79326460" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:79326460" href="#blastpself-overview-GI:79326460"><img title="Jump to overview: GI:79326460" alt="Jump to overview: GI:79326460" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79326460&GenericId=22311">GI:79326460</a></b></td><td valign="top"><b>vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">487</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 121.709 bits (304),</td><td style="padding-left:10px;">Expect = 8.63919e-28,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/355 (28%),
+          </td><td>
+              Positives = 153/355 (43%),
+            </td><td>
+            Gaps = 44/355 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 355,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">83</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">142</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTIL-NQQGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">190</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    +D +L +Q+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">143</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKSDNLLEHQEDD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">202</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">191</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEYF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">250</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">203</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">262</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">251</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MYR-EQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">309</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">263</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">321</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">310</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVGS</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">369</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">322</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLMK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">380</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">370</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">381</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">435</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-79326468" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:79326468" href="#blastpself-overview-GI:79326468"><img title="Jump to overview: GI:79326468" alt="Jump to overview: GI:79326468" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79326468&GenericId=21485">GI:79326468</a></b></td><td valign="top"><b>vacuolar ATP synthase subunit B, putative \ V-ATPase B subunit, putative \ vacuolar proton pump B subunit, putative \ V-ATPase 57 kDa subunit, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">487</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 121.709 bits (304),</td><td style="padding-left:10px;">Expect = 8.63919e-28,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/355 (28%),
+          </td><td>
+              Positives = 153/355 (43%),
+            </td><td>
+            Gaps = 44/355 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 355,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">83</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">142</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTIL-NQQGQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">190</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    +D +L +Q+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">143</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKSDNLLEHQEDD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">202</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">191</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEYF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">250</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">203</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">262</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">251</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MYR-EQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">309</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">263</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">321</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">310</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVGS</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">369</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">322</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLMK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">380</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">370</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">381</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAIGEGMTRRDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">435</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-15222929" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:15222929" href="#blastpself-overview-GI:15222929"><img title="Jump to overview: GI:15222929" alt="Jump to overview: GI:15222929" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15222929&GenericId=1781">GI:15222929</a></b></td><td valign="top"><b>vacuolar ATP synthase subunit B \ V-ATPase B subunit \ vacuolar proton pump B subunit \ V-ATPase 57 kDa subunit</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">486</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 119.013 bits (297),</td><td style="padding-left:10px;">Expect = 6.18946e-27,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/355 (28%),
+          </td><td>
+              Positives = 151/355 (43%),
+            </td><td>
+            Gaps = 44/355 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 355,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">82</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">141</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTILNQQGQ-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">190</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    T  +L   G+ </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">142</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKTVDLLEDHGED</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">201</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">191</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEYF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">250</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">202</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">261</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">251</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">MYR-EQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">309</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">262</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">320</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">310</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVGS</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">369</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">321</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLMK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">379</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">370</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">AA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">380</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAIGEGMTRKDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">434</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-240254125" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:240254125" href="#blastpself-overview-GI:240254125"><img title="Jump to overview: GI:240254125" alt="Jump to overview: GI:240254125" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A240254125&GenericId=2181">GI:240254125</a></b></td><td valign="top"><b>hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">487</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 116.701 bits (291),</td><td style="padding-left:10px;">Expect = 3.3391e-26,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 97/356 (27%),
+          </td><td>
+              Positives = 151/356 (42%),
+            </td><td>
+            Gaps = 45/356 (13%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 356,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">87</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASESRLIESPAPGIISRRSVYEP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">146</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++V+ TG++ + PVS   LGR+ N    PID    I       I   +     R    E </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">82</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TTVQFTGEVLKTPVSLDMLGRIFNGSGKPIDNGPPILPEAYLDISGSSINPSERTYPEEM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">141</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">147</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQTGLIAIDSMIPIGRGQRELIIGD-------------RQTG--KTAVATDTILNQQG--</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">189</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+QTG+  ID M  I RGQ+  +                RQ G  K    T+ ++ +    </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">142</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IQTGISTIDVMNSIARGQKIPLFSAAGLPHNEIAAQICRQAGLVKRLEKTENLIQEDHGE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">201</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">190</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QNVICVYVAIGQKASSVAQVVTSLQERGAMEYTIVVAETADSPATLQYLAPYTGAALAEY</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">249</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> N   V+ A+G    +        +E G+ME   +    A+ P   + + P      AEY</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">202</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">DNFAIVFAAMGVNMETAQFFKRDFEENGSMERVTLFLNLANDPTIERIITPRIALTTAEY</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">261</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">250</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">FMYRE-QHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSSQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">308</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  Y   +H L+I  D+S  A A R++S      PGR  YPG ++   + + ERA ++  +</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">262</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LAYECGKHVLVILTDMSSYADALREVSAAREEVPGRRGYPGYMYTDLATIYERAGRIEGR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">321</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">309</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPAINVGISVSRVG</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">368</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  +GS+T +PI+   + D++   P     IT+GQI++   L N  I P INV  S+SR+ </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">322</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">--KGSITQIPILTMPNDDITHPTPDLTGYITEGQIYIDRQLHNRQIYPPINVLPSLSRLM</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">379</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">369</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SAA-------------------------QIKAMKQVAGKLKLELAQFAELEAFSQF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">399</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> +A                          ++AMK V G+  L       LE   +F</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">380</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KSAIGEGMTRKDHSDVSNQLYANYAIGKDVQAMKAVVGEEALSSEDLLYLEFLDKF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">435</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-18415911" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:18415911" href="#blastpself-overview-GI:18415911"><img title="Jump to overview: GI:18415911" alt="Jump to overview: GI:18415911" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A18415911&GenericId=28361">GI:18415911</a></b></td><td valign="top"><b>ATP synthase beta chain 2, mitochondrial</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">556</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 92.0485 bits (227),</td><td style="padding-left:10px;">Expect = 8.03513e-19,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 113/453 (25%),
+          </td><td>
+              Positives = 183/453 (40%),
+            </td><td>
+            Gaps = 53/453 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 453,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">63</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">122</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++ +L  N V  + M     +  G  V  TG    +PV  A LGR++N L  PID RG+I</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">124</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VSHHLGQNVVRTIAMDGTEGLVRGRKVLNTGAPITVPVGRATLGRIMNVLGEPIDERGEI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">183</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">123</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">182</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">       I   AP ++   +  E L TG+  +D + P  RG +  + G    GKT +  +</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">184</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KTEHYLPIHRDAPALVDLATGQEILATGIKVVDLLAPYQRGGKIGLFGGAGVGKTVLIME</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">243</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">183</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TILN-QQGQNVICVYVAIGQKASS--------VAQVVTSLQERGAMEYTIVVAETADSPA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">233</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> I N  +      V+  +G++           +   V  L E+ +     +V    + P </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">244</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LINNVAKAHGGFSVFAGVGERTREGNDLYREMIESGVIKLGEKQSESKCALVYGQMNEPP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">303</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">234</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLQYLAPYTGAALAEYFMYRE-QHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">292</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  +     TG  +AEYF   E Q  L+  D++ +  QA  ++S LL R P    Y   + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">304</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GARARVGLTGLTVAEYFRDAEGQDVLLFIDNIFRFTQANSEVSALLGRIPSAVGYQPTLA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">363</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">293</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLHSRLLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">352</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">     L ER         +GS+T++  +   + D++   P    +  D    LS  +   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">364</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SDLGALQERITTTK----KGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRQISEL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">419</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">353</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIRPAINVGISVSRVGSAAQI--------KAMKQVAGKLKLELAQFAELEAFSQFSSDLD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">404</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GI PA++   S SR+ S   +        + +++V    K  L     +    + S D D</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">420</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIYPAVDPLDSTSRMLSPHILGEEHYNTARGVQKVLQNYK-NLQDIIAILGMDELSED-D</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">477</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">405</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KATQNQLARGQRLRELLKQSQSAPLTVEEQIMTIYTGTNG-YLDGLEIGQVRKFLVQLRT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">463</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">K T   +AR ++++  L Q    P  V E    I+TG  G Y+D                </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">478</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KLT---VARARKIQRFLSQ----PFHVAE----IFTGAPGKYVD----------------</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">510</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">464</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLKTNKPQFQEIIASTKTLTAEAESFLKEGIQE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">496</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> LK N   FQ ++       +E   ++  GI E</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">511</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-LKENINSFQGLLDGKYDDLSEQSFYMVGGIDE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">542</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-186521400" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:186521400" href="#blastpself-overview-GI:186521400"><img title="Jump to overview: GI:186521400" alt="Jump to overview: GI:186521400" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A186521400&GenericId=26050">GI:186521400</a></b></td><td valign="top"><b>ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">556</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 92.0485 bits (227),</td><td style="padding-left:10px;">Expect = 8.10246e-19,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 113/453 (25%),
+          </td><td>
+              Positives = 183/453 (40%),
+            </td><td>
+            Gaps = 53/453 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 453,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">63</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">122</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++ +L  N V  + M     +  G  V  TG    +PV  A LGR++N L  PID RG+I</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">124</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VSHHLGQNVVRTIAMDGTEGLVRGRKVLNTGAPITVPVGRATLGRIMNVLGEPIDERGEI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">183</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">123</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">182</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">       I   AP ++   +  E L TG+  +D + P  RG +  + G    GKT +  +</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">184</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KTEHYLPIHRDAPALVDLATGQEILATGIKVVDLLAPYQRGGKIGLFGGAGVGKTVLIME</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">243</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">183</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TILN-QQGQNVICVYVAIGQKASS--------VAQVVTSLQERGAMEYTIVVAETADSPA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">233</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> I N  +      V+  +G++           +   V  L E+ +     +V    + P </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">244</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LINNVAKAHGGFSVFAGVGERTREGNDLYREMIESGVIKLGEKQSESKCALVYGQMNEPP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">303</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">234</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLQYLAPYTGAALAEYFMYRE-QHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">292</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  +     TG  +AEYF   E Q  L+  D++ +  QA  ++S LL R P    Y   + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">304</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GARARVGLTGLTVAEYFRDAEGQDVLLFIDNIFRFTQANSEVSALLGRIPSAVGYQPTLA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">363</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">293</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLHSRLLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">352</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">     L ER         +GS+T++  +   + D++   P    +  D    LS  +   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">364</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SDLGALQERITTTK----KGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRQISEL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">419</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">353</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIRPAINVGISVSRVGSAAQI--------KAMKQVAGKLKLELAQFAELEAFSQFSSDLD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">404</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GI PA++   S SR+ S   +        + +++V    K  L     +    + S D D</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">420</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIYPAVDPLDSTSRMLSPHILGEEHYNTARGVQKVLQNYK-NLQDIIAILGMDELSED-D</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">477</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">405</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KATQNQLARGQRLRELLKQSQSAPLTVEEQIMTIYTGTNG-YLDGLEIGQVRKFLVQLRT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">463</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">K T   +AR ++++  L Q    P  V E    I+TG  G Y+D                </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">478</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KLT---VARARKIQRFLSQ----PFHVAE----IFTGAPGKYVD----------------</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">510</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">464</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLKTNKPQFQEIIASTKTLTAEAESFLKEGIQE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">496</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> LK N   FQ ++       +E   ++  GI E</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">511</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-LKENINSFQGLLDGKYDDLSEQSFYMVGGIDE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">542</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-22326673" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:22326673" href="#blastpself-overview-GI:22326673"><img title="Jump to overview: GI:22326673" alt="Jump to overview: GI:22326673" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A22326673&GenericId=32215">GI:22326673</a></b></td><td valign="top"><b>ATP synthase beta chain, mitochondrial, putative</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">559</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 90.8929 bits (224),</td><td style="padding-left:10px;">Expect = 1.85079e-18,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 113/453 (25%),
+          </td><td>
+              Positives = 183/453 (40%),
+            </td><td>
+            Gaps = 53/453 (12%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 453,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">63</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IALNLESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">122</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++ +L  N V  + M     +  G  V  TG    +PV  A LGR++N L  PID RG+I</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">127</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VSHHLGQNVVRTIAMDGTEGLVRGRKVLNTGAPITVPVGRATLGRIMNVLGEPIDERGEI</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">186</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">123</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SASESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">182</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">       I   AP ++   +  E L TG+  +D + P  RG +  + G    GKT +  +</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">187</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KTEHYLPIHRDAPALVDLATGQEILATGIKVVDLLAPYQRGGKIGLFGGAGVGKTVLIME</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">246</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">183</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TILN-QQGQNVICVYVAIGQKASS--------VAQVVTSLQERGAMEYTIVVAETADSPA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">233</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> I N  +      V+  +G++           +   V  L E+ +     +V    + P </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">247</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LINNVAKAHGGFSVFAGVGERTREGNDLYREMIESGVIKLGEKQSESKCALVYGQMNEPP</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">306</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">234</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TLQYLAPYTGAALAEYFMYRE-QHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVF</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">292</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  +     TG  +AEYF   E Q  L+  D++ +  QA  ++S LL R P    Y   + </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">307</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GARARVGLTGLTVAEYFRDAEGQDVLLFIDNIFRFTQANSEVSALLGRIPSAVGYQPTLA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">366</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">293</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLHSRLLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">352</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">     L ER         +GS+T++  +   + D++   P    +  D    LS  +   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">367</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SDLGALQERITTTK----KGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRQISEL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">422</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">353</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIRPAINVGISVSRVGSAAQI--------KAMKQVAGKLKLELAQFAELEAFSQFSSDLD</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">404</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GI PA++   S SR+ S   +        + +++V    K  L     +    + S D D</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">423</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">GIYPAVDPLDSTSRMLSPHILGEEHYNTARGVQKVLQNYK-NLQDIIAILGMDELSED-D</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">480</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">405</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KATQNQLARGQRLRELLKQSQSAPLTVEEQIMTIYTGTNG-YLDGLEIGQVRKFLVQLRT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">463</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">K T   +AR ++++  L Q    P  V E    I+TG  G Y+D                </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">481</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KLT---VARARKIQRFLSQ----PFHVAE----IFTGAPGKYVD----------------</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">513</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">464</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">YLKTNKPQFQEIIASTKTLTAEAESFLKEGIQE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">496</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> LK N   FQ ++       +E   ++  GI E</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">514</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-LKENINSFQGLLDGKYDDLSEQSFYMVGGIDE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">545</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-15219234" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:15219234" href="#blastpself-overview-GI:15219234"><img title="Jump to overview: GI:15219234" alt="Jump to overview: GI:15219234" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A15219234&GenericId=8324">GI:15219234</a></b></td><td valign="top"><b>VHA-A (VACUOLAR ATP SYNTHASE SUBUNIT A); ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">623</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 81.6481 bits (200),</td><td style="padding-left:10px;">Expect = 9.74349e-16,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 75/263 (29%),
+          </td><td>
+              Positives = 122/263 (46%),
+            </td><td>
+            Gaps = 26/263 (10%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 263,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">126</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">ESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATDTIL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">185</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+S  + +P P + S+ +   PL TG   +D++ P   G    I G    GKT ++    L</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">209</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QSWPVRTPRP-VASKLAADTPLLTGQRVLDALFPSVLGGTCAIPGAFGCGKTVISQ--AL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">265</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">186</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NQQGQNVICVYVAIGQKASSVAQVVTSL----------QERGAMEYTIVVAETADSPATL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">235</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++   +   VYV  G++ + +A+V+             +E   M+ T +VA T++ P   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">266</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SKYSNSDAVVYVGCGERGNEMAEVLMDFPQLTMTLPDGREESVMKRTTLVANTSNMPVAA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">325</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">236</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QYLAPYTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">295</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+  + YTG  +AEYF     +  ++ D  S+ A+A R++S  L   P    YP    YL </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">326</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">REASIYTGITIAEYFRDMGYNVSMMADSTSRWAEALREISGRLAEMPADSGYPA---YLA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">382</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">296</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRL---LERAAKLSSQLG---EGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSAD-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">348</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+RL    ERA K+    G    GS+T +  V    GD S  + +  +SI   Q+F   D </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">383</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">ARLASFYERAGKVKCLGGPERNGSVTIVGAVSPPGGDFSDPVTSATLSIV--QVFWGLDK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">440</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">349</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-LFNAGIRPAINVGISVSRVGSA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">370</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> L      P++N  IS S+  +A</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">441</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KLAQRKHFPSVNWLISYSKYSTA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">463</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-79321468" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:79321468" href="#blastpself-overview-GI:79321468"><img title="Jump to overview: GI:79321468" alt="Jump to overview: GI:79321468" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A79321468&GenericId=3258">GI:79321468</a></b></td><td valign="top"><b>VHA-A (VACUOLAR ATP SYNTHASE SUBUNIT A); ATP binding \ hydrogen ion transporting ATP synthase, rotational mechanism \ hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances \ proton-transporting ATPase, rotational mechanism</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">623</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 81.6481 bits (200),</td><td style="padding-left:10px;">Expect = 9.74349e-16,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 75/263 (29%),
+          </td><td>
+              Positives = 122/263 (46%),
+            </td><td>
+            Gaps = 26/263 (10%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 263,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">126</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">ESRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATDTIL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">185</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+S  + +P P + S+ +   PL TG   +D++ P   G    I G    GKT ++    L</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">209</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QSWPVRTPRP-VASKLAADTPLLTGQRVLDALFPSVLGGTCAIPGAFGCGKTVISQ--AL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">265</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">186</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">NQQGQNVICVYVAIGQKASSVAQVVTSL----------QERGAMEYTIVVAETADSPATL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">235</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++   +   VYV  G++ + +A+V+             +E   M+ T +VA T++ P   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">266</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SKYSNSDAVVYVGCGERGNEMAEVLMDFPQLTMTLPDGREESVMKRTTLVANTSNMPVAA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">325</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">236</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">QYLAPYTGAALAEYFMYREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLH</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">295</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+  + YTG  +AEYF     +  ++ D  S+ A+A R++S  L   P    YP    YL </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">326</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">REASIYTGITIAEYFRDMGYNVSMMADSTSRWAEALREISGRLAEMPADSGYPA---YLA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">382</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">296</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRL---LERAAKLSSQLG---EGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSAD-</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">348</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+RL    ERA K+    G    GS+T +  V    GD S  + +  +SI   Q+F   D </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">383</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">ARLASFYERAGKVKCLGGPERNGSVTIVGAVSPPGGDFSDPVTSATLSIV--QVFWGLDK</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">440</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">349</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-LFNAGIRPAINVGISVSRVGSA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">370</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;"> L      P++N  IS S+  +A</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">441</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">KLAQRKHFPSVNWLISYSKYSTA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">463</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+        
+<a name="blastpself-alignment-7525040" href="#blastpself-top"><img title="Jump to top" alt="Jump to top" border="0" src="html/images/small_triangle_yellow.gif"></a>
+    &nbsp;
+    
+    <a name="blastpself-alignment-GI:7525040" href="#blastpself-overview-GI:7525040"><img title="Jump to overview: GI:7525040" alt="Jump to overview: GI:7525040" border="0" src="html/images/small_triangle_black.gif"></a>
+<table cellspacing="0" cellpadding="3" border="0">
+<tr>
+<td valign="top"><b>
+                    &gt;<a target="HitWin" href="link?Method=blastpself&Db=p3_p116_Ara_thali&Id=GI%3A7525040&GenericId=43">GI:7525040</a></b></td><td valign="top"><b>ATP synthase CF1 beta subunit</b></td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<p style="padding-left:10px;">Length:</p>
+</td><td align="right">
+<p style="padding-left:10px;">498</p>
+</td>
+</tr>
+</table>
+<br>
+            
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>Score = 80.1073 bits (196),</td><td style="padding-left:10px;">Expect = 3.03061e-15,</td><td style="padding-left:10px;"></td>
+</tr>
+<tr>
+<td>
+            Identities = 99/399 (25%),
+          </td><td>
+              Positives = 164/399 (41%),
+            </td><td>
+            Gaps = 32/399 (8%),
+          </td>
+</tr>
+<tr>
+<td>
+                Frame =
+              1
+              /
+            1
+            ,
+          </td><td>
+            Alignment length = 399,
+          </td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+</table>
+<p style="font-family:monospace;white-space:nowrap;">
+<table border="0">
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">67</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LESNNVGVVLMGDGLMIQEGSSVKATGKIAQIPVSEAYLGRVINALANPIDGRGKISASE</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">126</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">L +N V  V M     ++ G  V   G    +PV  A LGR+ N L  P+D  G +    </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">69</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LGNNRVRAVAMSATEGLKRGMDVVDMGNPLSVPVGGATLGRIFNVLGEPVDNLGPVDTRT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">128</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">127</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">SRLIESPAPGIISRRSVYEPLQTGLIAIDSMIPIGRGQRELIIGDRQTGKTAVATDTILN</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">186</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+  I   AP  I   +     +TG+  +D + P  RG +  + G    GKT +  + I N</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">129</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">TSPIHKSAPAFIELDTKLSIFETGIKVVDLLAPYRRGGKIGLFGGAGVGKTVLIMELINN</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">188</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">187</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">-QQGQNVICVYVAIGQKASSVAQVVTSLQERGAM-EYTIVVAETA------DSPATLQYL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">238</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">  +    + V+  +G++      +   ++E G + E  +  ++ A      + P   +  </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">189</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">IAKAHGGVSVFGGVGERTREGNDLYMEMKESGVINEQNLAESKVALVYGQMNEPPGARMR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">248</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">239</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">APYTGAALAEYFM-YREQHTLIIYDDLSKQAQAYRQMSLLLRRPPGREAYPGDVFYLHSR</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">297</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">   T   +AEYF    EQ  L+  D++ +  QA  ++S LL R P    Y   +      </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">249</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VGLTALTMAEYFRDVNEQDVLLFIDNIFRFVQAGSEVSALLGRMPSAVGYQPTLSTEMGT</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">308</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">298</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LLERAAKLSSQLGEGSMTALPIVETQSGDVSAYIPTNVISITDGQIFLSADLFNAGIRPA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">357</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">L ER         +GS+T++  V   + D++   P    +  D    LS  L   GI PA</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">309</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LQERITSTK----KGSITSIQAVYVPADDLTDPAPATTFAHLDATTVLSRGLAAKGIYPA</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">364</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">358</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">INVGISVS-----RVGSAAQIKAMKQVAGKLKL--ELAQFAELEAFSQFSSDLDKATQNQ</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">410</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">++   S S     R+      +  +QV   L+   EL     +    + S + D+ T   </pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">365</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VDPLDSTSTMLQPRIVGEEHYETAQQVKQTLQRYKELQDIIAILGLDELSEE-DRLT---</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">420</td>
+</tr>
+<tr>
+<td colspan="4" height="10"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Query:</td><td style="padding-left:5px;padding-right:5px" align="right">411</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">LARGQRLRELLKQSQSAPLTVEEQIMTIYTGTNGYLDGL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">449</td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px"></td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">+AR +++   L Q    P  V E    ++TG+ G   GL</pre>
+</td><td style="padding-left:5px;padding-right:5px"></td>
+</tr>
+<tr>
+<td style="padding-left:5px;padding-right:5px">Sbjct:</td><td style="padding-left:5px;padding-right:5px" align="right">421</td><td style="padding-left:5px;padding-right:5px">
+<pre style="margin:0;padding:0;">VARARKIERFLSQ----PFFVAE----VFTGSPGKYVGL</pre>
+</td><td style="padding-left:5px;padding-right:5px" align="right">451</td>
+</tr>
+</table>
+</p>
+<br>
+          
+<br>
+      
+        
+<table style="padding-left:10px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><b>Statistics for iteration:</b></td><td style="padding-left:10px;" align="right">1</td>
+</tr>
+<tr>
+<td valign="top">Database:</td><td style="padding-left:10px;" align="right">pedant3527638537756165100.tmp</td>
+</tr>
+<tr>
+<td>Number of sequences:</td><td style="padding-left:10px;" align="right">33401</td>
+</tr>
+<tr>
+<td>Total number of letters:</td><td style="padding-left:10px;" align="right">13432058</td>
+</tr>
+<tr>
+<td>Effective search space:</td><td style="padding-left:10px;" align="right">4.01322e+09</td>
+</tr>
+<tr>
+<td>Effective HSP length:</td><td style="padding-left:10px;" align="right">104</td>
+</tr>
+<tr>
+<td>Kappa:</td><td style="padding-left:10px;" align="right">0.041</td>
+</tr>
+<tr>
+<td>Lambda:</td><td style="padding-left:10px;" align="right">0.267</td>
+</tr>
+<tr>
+<td>Entropy:</td><td style="padding-left:10px;" align="right">0.14</td>
+</tr>
+</table>
+<br>
+      
+  
+</li>
+<li>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><b>blastp paramters:</b></td><td style="padding-left:10px"></td>
+</tr>
+    
+<tr>
+<td style="padding-left:10px">Matrix:</td><td style="padding-left:10px" align="right">BLOSUM62</td>
+</tr>
+<tr>
+<td style="padding-left:10px">E-value:</td><td style="padding-left:10px" align="right">0.1</td>
+</tr>
+<tr>
+<td style="padding-left:10px">Gap-open:</td><td style="padding-left:10px" align="right">11</td>
+</tr>
+<tr>
+<td style="padding-left:10px">Gap-extend:</td><td style="padding-left:10px" align="right">1</td>
+</tr>
+<tr>
+<td style="padding-left:10px">Filter:</td><td style="padding-left:10px" align="right">F</td>
+</tr>
+  
+</table>
+</li>
+</ul>
+<form name="exportDataForm" method="POST" action="pedant">
+<center><h3 class="export">Export</h3></center>
+<h4>Export this entry
+&nbsp;&nbsp;&nbsp;<input TYPE="SUBMIT" VALUE="Go">
+</h4>
+<input TYPE="HIDDEN" NAME="Export" VALUE="blastpself">
+<input TYPE="HIDDEN" NAME="Db" VALUE="p3_p116_Ara_thali">
+<input TYPE="HIDDEN" NAME="Method" VALUE="ReportGeneData">
+<input TYPE="HIDDEN" NAME="Name" VALUE="blastpself">
+<input TYPE="HIDDEN" NAME="GeneticelemID" VALUE="90">
+</form>
+</td>
+</tr>
+</tbody></table></div>
+<br>
+</BODY>
+</HTML>
